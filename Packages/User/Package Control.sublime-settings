@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"DocBlockr",
+		"GitGutter",
+		"Handlebars",
+		"JavaScript Console",
+		"JSONLint",
+		"LESS",
+		"Monokai Extended",
+		"Pretty JSON",
+		"RSpec (snippets and syntax)",
+		"SideBarEnhancements",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+	]
+}

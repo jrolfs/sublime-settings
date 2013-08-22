@@ -1,0 +1,3882 @@
+{
+	"folder_history":
+	[
+		"/Users/Jamie/Development/Javascript/vid.io/vidio-client",
+		"/Users/Jamie/Development/Javascript/vid.io/vidiq.com",
+		"/Users/Jamie/Development/Ruby/vidio-core/pastasauce"
+	],
+	"last_version": 3047,
+	"last_window_id": 31,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1396.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"noti",
+						"notificationView"
+					],
+					[
+						"Notifi",
+						"notificationsView"
+					],
+					[
+						"draw",
+						"drawChart"
+					],
+					[
+						"settings",
+						"settingsView"
+					],
+					[
+						"setting",
+						"settingsView"
+					],
+					[
+						"onSe",
+						"onHideSettings"
+					],
+					[
+						"onMap",
+						"onMapHover"
+					],
+					[
+						"time",
+						"timezone"
+					],
+					[
+						"onMa",
+						"onMapHover"
+					],
+					[
+						"tool",
+						"toolbarView"
+					],
+					[
+						"hide",
+						"hideLoading"
+					],
+					[
+						"settin",
+						"settingsView"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"toolb",
+						"toolbarTemplate"
+					],
+					[
+						"list",
+						"listenTo"
+					],
+					[
+						"Histor",
+						"HistoryModuleSettings"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 49.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"renam",
+						"File: Rename"
+					],
+					[
+						"sublimel",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"new",
+						"File: New File Relative to Current View"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remvoe",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublm",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"subli",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"sublim",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"sublime",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sub",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sublimeli",
+						"SublimeLint: Next Error"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"packageo",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"packa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Add Repository"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 397.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/vidio.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/notifications/NotificationView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/AppModel.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/QueueNotificationCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/ShowAlertCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/collections/NotificationCollection.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/notifications/NotificationView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadStatusView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/Commands.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/ChartModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/notifications.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/collections/NotificaitonCollection.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/HeaderView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/nav.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/upload.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/AppView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/BaseView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upload/UploadStatusView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/NotificationModel.js",
+				"/Users/Jamie/.floobits/share/msgs.floobits.log",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/TopInfluencersUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/TwitterUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/CommentsUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/SeoUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/facebook/FacebookCreateView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/facebook.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/upsells.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/lists/UploadList.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/lists/items/UploadListItem.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/spin-1.3.1.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/jquery.spin.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/facebook/FacebookConfigurationView.tmpl",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/admin/accounts_controller.rb",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Ruby.sublime-settings",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/andrew_controller.rb",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/spin-1.2.7.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/main.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/facebook-main.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadFileView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upload/UploadFileView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/StartUploadCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/managers/UploadManager.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/HeaderView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Abacus/Abacus.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/controls/NavigationTabView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Abacus.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Package Control/Package Control.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/Gruntfile.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/HistoryModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppHistory.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/settings/HistoryModuleSettingsModel.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/analytics.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/settings/HistoryModuleSettingsView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/ModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/HistoryModuleView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/moment-timezone-0.0.1.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/managers/GoogleMapsManager.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/static/MomentTimezoneData.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/jquery.timezone-picker.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/bootstrap/mixins.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/ModuleView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/settings/HistoryModuleSettingsView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SideBarEnhancements/CHANGELOG",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/init/jQueryInit.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/videos/EditVideoView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/forms.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/init/MomentInit.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/toolbars/ChartModuleToolbar.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/toolbars/HistoryModuleToolbar.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/mixins.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/ModuleToolbarView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/AnalyticsView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/release/web/index.html",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/sublime-monokai-extended/Monokai Extended.tmTheme",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/README.md",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Package Control.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/JSON.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Jamie/Dropbox/Sublime/Packages/User/Preferences.sublime-settings",
+				"/Users/Jamie/Pictures/Photo Booth Library/Pictures/Photo on 8-12-13 at 4.39 PM.jpg"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"app/js",
+					"app/less",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"this.uploadList",
+					"uploadList",
+					"UploadStatusView",
+					"uploads",
+					"Uploads",
+					"onUploadsRemove",
+					"onNotificationsAdd",
+					"Uploads",
+					"uploads",
+					"null, {",
+					"null, ",
+					"uploadd",
+					"upload",
+					"bell",
+					"NotificationView",
+					"bell",
+					"<article>",
+					"def authorize",
+					"mass",
+					"mass_like",
+					"spin-1.2.7",
+					"data",
+					":",
+					"SocketManager",
+					"utcHours",
+					"timezone",
+					"font",
+					"moment().tz",
+					"25px",
+					".form-actions",
+					".box-sha",
+					"brightcove",
+					"form-actions",
+					"180deg",
+					"-180deg",
+					"transform3d",
+					"module-settings",
+					"180deg",
+					"0deg",
+					"$card",
+					"0deg",
+					"180deg",
+					"-180deg",
+					"180deg",
+					"onMapSelect",
+					"$map",
+					"span",
+					"Background",
+					"on(",
+					".on",
+					"on",
+					"HistoryModuleSettings",
+					"this.timezone",
+					"transform3d"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"this.list",
+					"NotificationListDropdownView",
+					"<article class=\"span4\">",
+					"spin-1.3.1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"uploadstat",
+						"app/js/vidio/view/upload/UploadStatusView.js"
+					],
+					[
+						"notificationview",
+						"app/js/vidio/view/notifications/NotificationView.js"
+					],
+					[
+						"headerview.js",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"notificationco",
+						"app/js/vidio/model/collections/NotificaitonCollection.js"
+					],
+					[
+						"appmo",
+						"app/js/vidio/model/AppModel.js"
+					],
+					[
+						"headervi",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"commands",
+						"app/js/vidio/control/Commands.js"
+					],
+					[
+						"notifica",
+						"app/templates/notifications/NotificationView.tmpl"
+					],
+					[
+						"vidio",
+						"app/less/vidio.less"
+					],
+					[
+						"notif",
+						"app/less/notifications.less"
+					],
+					[
+						"upload",
+						"app/less/upload.less"
+					],
+					[
+						"header",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"baseview",
+						"app/js/vidio/view/BaseView.js"
+					],
+					[
+						"sublimelin",
+						"~/Dropbox/Sublime 3/Packages/User/SublimeLinter.sublime-settings"
+					],
+					[
+						"noti",
+						"app/templates/NotificationView.tmpl"
+					],
+					[
+						"headerview",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"notifi",
+						"app/templates/NotificationView.tmpl"
+					],
+					[
+						"vidio.le",
+						"app/less/vidio.less"
+					],
+					[
+						"appview",
+						"app/js/vidio/view/AppView.js"
+					],
+					[
+						"uploads.",
+						"app/less/upload.less"
+					],
+					[
+						"nav.le",
+						"app/less/nav.less"
+					],
+					[
+						"appro",
+						"~/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"app",
+						"~/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"spin-",
+						"app/js/libs/spin-1.3.1.js"
+					],
+					[
+						"spin.js",
+						"app/js/libs/jquery.spin.js"
+					],
+					[
+						"approu",
+						"app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"uploadlistit",
+						"app/js/vidio/view/lists/items/UploadListItem.js"
+					],
+					[
+						"uploadli",
+						"app/js/vidio/view/lists/UploadList.js"
+					],
+					[
+						"uploadstatu",
+						"app/js/vidio/view/upload/UploadStatusView.js"
+					],
+					[
+						"facebook",
+						"app/less/facebook.less"
+					],
+					[
+						"facebooktmpl",
+						"app/templates/facebook/FacebookCreateView.tmpl"
+					],
+					[
+						"seo",
+						"app/templates/upsells/SeoUpsellView.tmpl"
+					],
+					[
+						"commentsu",
+						"app/templates/upsells/CommentsUpsellView.tmpl"
+					],
+					[
+						"twitter",
+						"app/templates/upsells/TwitterUpsellView.tmpl"
+					],
+					[
+						"topin",
+						"app/templates/upsells/TopInfluencersUpsellView.tmpl"
+					],
+					[
+						"upse",
+						"app/less/upsells.less"
+					],
+					[
+						"masslike",
+						"app/models/youtubevideo/mass_like.rb"
+					],
+					[
+						"account",
+						"app/models/account.rb"
+					],
+					[
+						"accounts",
+						"app/controllers/v0/accounts_controller.rb"
+					],
+					[
+						"andrewco",
+						"app/controllers/andrew_controller.rb"
+					],
+					[
+						"videos_con",
+						"app/controllers/v0/youtube/videos_controller.rb"
+					],
+					[
+						"channelsco",
+						"app/controllers/v0/youtube/channels_controller.rb"
+					],
+					[
+						"main",
+						"app/js/main.js"
+					],
+					[
+						"chartmod",
+						"app/js/vidio/view/analytics/ChartModuleView.js"
+					],
+					[
+						"navigation",
+						"app/js/vidio/view/controls/NavigationTabView.js"
+					],
+					[
+						"uploadman",
+						"app/js/vidio/control/managers/UploadManager.js"
+					],
+					[
+						"startup",
+						"app/js/vidio/control/commands/StartUploadCommand.js"
+					],
+					[
+						"uploadfi",
+						"app/templates/upload/UploadFileView.tmpl"
+					],
+					[
+						"goog",
+						"app/js/vidio/control/managers/GoogleMapsManager.js"
+					],
+					[
+						"mains",
+						"app/js/main.js"
+					],
+					[
+						"moment",
+						"app/js/vidio/model/static/MomentTimezoneData.js"
+					],
+					[
+						"moment-time",
+						"app/js/libs/moment-timezone-0.0.1.js"
+					],
+					[
+						"historymodulev",
+						"app/templates/analytics/HistoryModuleView.tmpl"
+					],
+					[
+						"module",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"historymoduleset",
+						"app/templates/analytics/settings/HistoryModuleSettingsView.tmpl"
+					],
+					[
+						"mixins",
+						"app/less/bootstrap/mixins.less"
+					],
+					[
+						"analyt",
+						"app/less/analytics.less"
+					],
+					[
+						"timezone-pi",
+						"app/js/libs/jquery.timezone-picker.js"
+					],
+					[
+						"apphi",
+						"app/js/vidio/control/AppHistory.js"
+					],
+					[
+						"historymoduleview",
+						"app/js/vidio/view/analytics/HistoryModuleView.js"
+					],
+					[
+						"modulev",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"gruntfile",
+						"Gruntfile.js"
+					],
+					[
+						"jq",
+						"app/js/vidio/control/init/jQueryInit.js"
+					],
+					[
+						"fac",
+						"app/js/facebook-main.js"
+					],
+					[
+						"editvi",
+						"app/templates/videos/EditVideoView.tmpl"
+					],
+					[
+						"modulesett",
+						"app/js/vidio/model/settings/HistoryModuleSettingsModel.js"
+					],
+					[
+						"historymodulesettin",
+						"app/templates/analytics/settings/HistoryModuleSettingsView.tmpl"
+					],
+					[
+						"modulevie",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"moduletoo",
+						"app/templates/analytics/ModuleToolbarView.tmpl"
+					],
+					[
+						"google",
+						"app/js/vidio/control/managers/GoogleMapsManager.js"
+					],
+					[
+						"analyticsview",
+						"app/js/vidio/view/AnalyticsView.js"
+					],
+					[
+						"historymo",
+						"app/templates/analytics/HistoryModuleView.tmpl"
+					],
+					[
+						"apphist",
+						"app/js/vidio/control/AppHistory.js"
+					],
+					[
+						"approuter",
+						"app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"index",
+						"release/web/index.html"
+					],
+					[
+						"charttool",
+						"app/templates/analytics/toolbars/ChartModuleToolbar.tmpl"
+					],
+					[
+						"chart",
+						"app/js/vidio/view/analytics/ChartModuleView.js"
+					],
+					[
+						"modulevi",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"historymod",
+						"app/js/vidio/model/settings/HistoryModuleSettingsModel.js"
+					],
+					[
+						"analy",
+						"app/less/analytics.less"
+					],
+					[
+						"momentin",
+						"app/js/vidio/control/init/MomentInit.js"
+					],
+					[
+						"momentti",
+						"app/js/vidio/model/static/MomentTimezoneData.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 392.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 2560.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"draw",
+						"drawChart"
+					],
+					[
+						"settings",
+						"settingsView"
+					],
+					[
+						"setting",
+						"settingsView"
+					],
+					[
+						"onSe",
+						"onHideSettings"
+					],
+					[
+						"onMap",
+						"onMapHover"
+					],
+					[
+						"time",
+						"timezone"
+					],
+					[
+						"onMa",
+						"onMapHover"
+					],
+					[
+						"tool",
+						"toolbarView"
+					],
+					[
+						"hide",
+						"hideLoading"
+					],
+					[
+						"settin",
+						"settingsView"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"toolb",
+						"toolbarTemplate"
+					],
+					[
+						"list",
+						"listenTo"
+					],
+					[
+						"Histor",
+						"HistoryModuleSettings"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/admin/channels_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1644,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/v0/facebook/videos_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2615,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 335.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sublm",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"subli",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"sublim",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"sublimel",
+						"SublimeLinter: Extract Annotations"
+					],
+					[
+						"sublime",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sub",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sublimeli",
+						"SublimeLint: Next Error"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"packageo",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"packa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Add Repository"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 397.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Ruby.sublime-settings",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/v0/youtube/channels_controller.rb",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/models/account.rb",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/v0/accounts_controller.rb",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/application_controller.rb",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/v0/youtube/videos_controller.rb",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/models/youtubevideo/mass_like.rb",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/admin/accounts_controller.rb",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/andrew_controller.rb",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/spin-1.2.7.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/main.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/facebook-main.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadFileView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upload/UploadFileView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/StartUploadCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/managers/UploadManager.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/HeaderView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Abacus/Abacus.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/controls/NavigationTabView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Abacus.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Package Control/Package Control.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/Gruntfile.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/HistoryModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppHistory.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/settings/HistoryModuleSettingsModel.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/analytics.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/settings/HistoryModuleSettingsView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/ModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/HistoryModuleView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/moment-timezone-0.0.1.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/managers/GoogleMapsManager.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/static/MomentTimezoneData.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/jquery.timezone-picker.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/bootstrap/mixins.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/ModuleView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/settings/HistoryModuleSettingsView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SideBarEnhancements/CHANGELOG",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/init/jQueryInit.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/videos/EditVideoView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/forms.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/ChartModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/init/MomentInit.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/toolbars/ChartModuleToolbar.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/toolbars/HistoryModuleToolbar.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/mixins.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/ModuleToolbarView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/AnalyticsView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/release/web/index.html",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/sublime-monokai-extended/Monokai Extended.tmTheme",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/README.md",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Package Control.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/JSON.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Jamie/Dropbox/Sublime/Packages/User/Preferences.sublime-settings",
+				"/Users/Jamie/Pictures/Photo Booth Library/Pictures/Photo on 8-12-13 at 4.39 PM.jpg"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"app/js",
+					"app/less",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"def authorize",
+					"mass",
+					"mass_like",
+					"spin-1.2.7",
+					"data",
+					":",
+					"SocketManager",
+					"utcHours",
+					"timezone",
+					"font",
+					"moment().tz",
+					"25px",
+					".form-actions",
+					".box-sha",
+					"brightcove",
+					"form-actions",
+					"180deg",
+					"-180deg",
+					"transform3d",
+					"module-settings",
+					"180deg",
+					"0deg",
+					"$card",
+					"0deg",
+					"180deg",
+					"-180deg",
+					"180deg",
+					"onMapSelect",
+					"$map",
+					"span",
+					"Background",
+					"on(",
+					".on",
+					"on",
+					"HistoryModuleSettings",
+					"this.timezone",
+					"transform3d"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"spin-1.3.1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/Jamie/Development/Ruby/vidio-core/pastasauce"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/admin/channels_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1644,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										684,
+										684
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": false,
+										"import": false,
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": false,
+										"universal-selector": "warning",
+										"vendor-prefix": false,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"globals":
+										{
+											"clearInterval": true,
+											"clearTimeout": true,
+											"document": true,
+											"setInterval": true,
+											"setTimeout": true,
+											"window": true
+										},
+										"white": false
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"csslint"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": true,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": true,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/v0/facebook/videos_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2615,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										949,
+										949
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": false,
+										"import": false,
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": false,
+										"universal-selector": "warning",
+										"vendor-prefix": false,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"globals":
+										{
+											"clearInterval": true,
+											"clearTimeout": true,
+											"document": true,
+											"setInterval": true,
+											"setTimeout": true,
+											"window": true
+										},
+										"white": false
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"csslint"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": true,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": true,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0 0 2560 1418 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"channels",
+						"app/controllers/admin/channels_controller.rb"
+					],
+					[
+						"videosco",
+						"app/controllers/v0/facebook/videos_controller.rb"
+					],
+					[
+						"video",
+						"app/controllers/v0/youtube/videos_controller.rb"
+					],
+					[
+						"masslike",
+						"app/models/youtubevideo/mass_like.rb"
+					],
+					[
+						"account",
+						"app/models/account.rb"
+					],
+					[
+						"accounts",
+						"app/controllers/v0/accounts_controller.rb"
+					],
+					[
+						"andrewco",
+						"app/controllers/andrew_controller.rb"
+					],
+					[
+						"videos_con",
+						"app/controllers/v0/youtube/videos_controller.rb"
+					],
+					[
+						"channelsco",
+						"app/controllers/v0/youtube/channels_controller.rb"
+					],
+					[
+						"main",
+						"app/js/main.js"
+					],
+					[
+						"upse",
+						"app/less/upsells.less"
+					],
+					[
+						"chartmod",
+						"app/js/vidio/view/analytics/ChartModuleView.js"
+					],
+					[
+						"navigation",
+						"app/js/vidio/view/controls/NavigationTabView.js"
+					],
+					[
+						"header",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"uploadman",
+						"app/js/vidio/control/managers/UploadManager.js"
+					],
+					[
+						"startup",
+						"app/js/vidio/control/commands/StartUploadCommand.js"
+					],
+					[
+						"uploadfi",
+						"app/templates/upload/UploadFileView.tmpl"
+					],
+					[
+						"goog",
+						"app/js/vidio/control/managers/GoogleMapsManager.js"
+					],
+					[
+						"mains",
+						"app/js/main.js"
+					],
+					[
+						"moment",
+						"app/js/vidio/model/static/MomentTimezoneData.js"
+					],
+					[
+						"moment-time",
+						"app/js/libs/moment-timezone-0.0.1.js"
+					],
+					[
+						"historymodulev",
+						"app/templates/analytics/HistoryModuleView.tmpl"
+					],
+					[
+						"module",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"historymoduleset",
+						"app/templates/analytics/settings/HistoryModuleSettingsView.tmpl"
+					],
+					[
+						"mixins",
+						"app/less/bootstrap/mixins.less"
+					],
+					[
+						"analyt",
+						"app/less/analytics.less"
+					],
+					[
+						"timezone-pi",
+						"app/js/libs/jquery.timezone-picker.js"
+					],
+					[
+						"apphi",
+						"app/js/vidio/control/AppHistory.js"
+					],
+					[
+						"historymoduleview",
+						"app/js/vidio/view/analytics/HistoryModuleView.js"
+					],
+					[
+						"modulev",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"gruntfile",
+						"Gruntfile.js"
+					],
+					[
+						"jq",
+						"app/js/vidio/control/init/jQueryInit.js"
+					],
+					[
+						"fac",
+						"app/js/facebook-main.js"
+					],
+					[
+						"editvi",
+						"app/templates/videos/EditVideoView.tmpl"
+					],
+					[
+						"modulesett",
+						"app/js/vidio/model/settings/HistoryModuleSettingsModel.js"
+					],
+					[
+						"historymodulesettin",
+						"app/templates/analytics/settings/HistoryModuleSettingsView.tmpl"
+					],
+					[
+						"modulevie",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"moduletoo",
+						"app/templates/analytics/ModuleToolbarView.tmpl"
+					],
+					[
+						"google",
+						"app/js/vidio/control/managers/GoogleMapsManager.js"
+					],
+					[
+						"analyticsview",
+						"app/js/vidio/view/AnalyticsView.js"
+					],
+					[
+						"historymo",
+						"app/templates/analytics/HistoryModuleView.tmpl"
+					],
+					[
+						"apphist",
+						"app/js/vidio/control/AppHistory.js"
+					],
+					[
+						"approuter",
+						"app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"index",
+						"release/web/index.html"
+					],
+					[
+						"charttool",
+						"app/templates/analytics/toolbars/ChartModuleToolbar.tmpl"
+					],
+					[
+						"chart",
+						"app/js/vidio/view/analytics/ChartModuleView.js"
+					],
+					[
+						"modulevi",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"historymod",
+						"app/js/vidio/model/settings/HistoryModuleSettingsModel.js"
+					],
+					[
+						"analy",
+						"app/less/analytics.less"
+					],
+					[
+						"sublimelin",
+						"~/Dropbox/Sublime 3/Packages/User/Preferences.sublime-settings"
+					],
+					[
+						"momentin",
+						"app/js/vidio/control/init/MomentInit.js"
+					],
+					[
+						"momentti",
+						"app/js/vidio/model/static/MomentTimezoneData.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 392.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 21,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"noti",
+						"notificationView"
+					],
+					[
+						"Notifi",
+						"notificationsView"
+					],
+					[
+						"draw",
+						"drawChart"
+					],
+					[
+						"settings",
+						"settingsView"
+					],
+					[
+						"setting",
+						"settingsView"
+					],
+					[
+						"onSe",
+						"onHideSettings"
+					],
+					[
+						"onMap",
+						"onMapHover"
+					],
+					[
+						"time",
+						"timezone"
+					],
+					[
+						"onMa",
+						"onMapHover"
+					],
+					[
+						"tool",
+						"toolbarView"
+					],
+					[
+						"hide",
+						"hideLoading"
+					],
+					[
+						"settin",
+						"settingsView"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"toolb",
+						"toolbarTemplate"
+					],
+					[
+						"list",
+						"listenTo"
+					],
+					[
+						"Histor",
+						"HistoryModuleSettings"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/notifications.less",
+					"settings":
+					{
+						"buffer_size": 4011,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadStatusView.js",
+					"settings":
+					{
+						"buffer_size": 3565,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/controls/NotificationListDropdownView.js",
+					"settings":
+					{
+						"buffer_size": 3415,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/HeaderView.js",
+					"settings":
+					{
+						"buffer_size": 15321,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 49.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"renam",
+						"File: Rename"
+					],
+					[
+						"sublimel",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"new",
+						"File: New File Relative to Current View"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remvoe",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublm",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"subli",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"sublim",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"sublime",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sub",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sublimeli",
+						"SublimeLint: Next Error"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"packageo",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"packa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Add Repository"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 397.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/vidio.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/notifications/NotificationView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/AppModel.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/QueueNotificationCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/ShowAlertCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/collections/NotificationCollection.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/notifications/NotificationView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadStatusView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/Commands.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/ChartModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/notifications.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/collections/NotificaitonCollection.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/HeaderView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/nav.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/upload.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/AppView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/BaseView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upload/UploadStatusView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/NotificationModel.js",
+				"/Users/Jamie/.floobits/share/msgs.floobits.log",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/TopInfluencersUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/TwitterUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/CommentsUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/SeoUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/facebook/FacebookCreateView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/facebook.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/upsells.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/lists/UploadList.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/lists/items/UploadListItem.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/spin-1.3.1.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/jquery.spin.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/facebook/FacebookConfigurationView.tmpl",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/admin/accounts_controller.rb",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Ruby.sublime-settings",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/andrew_controller.rb",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/spin-1.2.7.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/main.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/facebook-main.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadFileView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upload/UploadFileView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/StartUploadCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/managers/UploadManager.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/HeaderView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Abacus/Abacus.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/controls/NavigationTabView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Abacus.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Package Control/Package Control.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/Gruntfile.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/HistoryModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppHistory.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/settings/HistoryModuleSettingsModel.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/analytics.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/settings/HistoryModuleSettingsView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/ModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/HistoryModuleView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/moment-timezone-0.0.1.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/managers/GoogleMapsManager.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/static/MomentTimezoneData.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/jquery.timezone-picker.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/bootstrap/mixins.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/ModuleView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/settings/HistoryModuleSettingsView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SideBarEnhancements/CHANGELOG",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/init/jQueryInit.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/videos/EditVideoView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/forms.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/init/MomentInit.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/toolbars/ChartModuleToolbar.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/toolbars/HistoryModuleToolbar.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/mixins.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/ModuleToolbarView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/AnalyticsView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/release/web/index.html",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/sublime-monokai-extended/Monokai Extended.tmTheme",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/README.md",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Package Control.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/JSON.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Jamie/Dropbox/Sublime/Packages/User/Preferences.sublime-settings",
+				"/Users/Jamie/Pictures/Photo Booth Library/Pictures/Photo on 8-12-13 at 4.39 PM.jpg"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"app/js",
+					"app/less",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"this.uploadList",
+					"uploadList",
+					"UploadStatusView",
+					"uploads",
+					"Uploads",
+					"onUploadsRemove",
+					"onNotificationsAdd",
+					"Uploads",
+					"uploads",
+					"null, {",
+					"null, ",
+					"uploadd",
+					"upload",
+					"bell",
+					"NotificationView",
+					"bell",
+					"<article>",
+					"def authorize",
+					"mass",
+					"mass_like",
+					"spin-1.2.7",
+					"data",
+					":",
+					"SocketManager",
+					"utcHours",
+					"timezone",
+					"font",
+					"moment().tz",
+					"25px",
+					".form-actions",
+					".box-sha",
+					"brightcove",
+					"form-actions",
+					"180deg",
+					"-180deg",
+					"transform3d",
+					"module-settings",
+					"180deg",
+					"0deg",
+					"$card",
+					"0deg",
+					"180deg",
+					"-180deg",
+					"180deg",
+					"onMapSelect",
+					"$map",
+					"span",
+					"Background",
+					"on(",
+					".on",
+					"on",
+					"HistoryModuleSettings",
+					"this.timezone",
+					"transform3d"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"this.list",
+					"NotificationListDropdownView",
+					"<article class=\"span4\">",
+					"spin-1.3.1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/Jamie/Development/Javascript/vid.io/vidio-client"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/notifications.less",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4011,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										886,
+										886
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": false,
+										"import": false,
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": false,
+										"universal-selector": "warning",
+										"vendor-prefix": false,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"globals":
+										{
+											"clearInterval": true,
+											"clearTimeout": true,
+											"document": true,
+											"setInterval": true,
+											"setTimeout": true,
+											"window": true
+										},
+										"white": false
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"csslint"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": true,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": true,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/LESS/LESS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadStatusView.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3565,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1123,
+										1123
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": false,
+										"import": false,
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": false,
+										"universal-selector": "warning",
+										"vendor-prefix": false,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"globals":
+										{
+											"clearInterval": true,
+											"clearTimeout": true,
+											"document": true,
+											"setInterval": true,
+											"setTimeout": true,
+											"window": true
+										},
+										"white": false
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"csslint"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": true,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": true,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/controls/NotificationListDropdownView.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1110,
+										1110
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": false,
+										"import": false,
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": false,
+										"universal-selector": "warning",
+										"vendor-prefix": false,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"globals":
+										{
+											"clearInterval": true,
+											"clearTimeout": true,
+											"document": true,
+											"setInterval": true,
+											"setTimeout": true,
+											"window": true
+										},
+										"white": false
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"csslint"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": true,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": true,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 499.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/HeaderView.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15321,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										870,
+										870
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": false,
+										"import": false,
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": false,
+										"universal-selector": "warning",
+										"vendor-prefix": false,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"globals":
+										{
+											"clearInterval": true,
+											"clearTimeout": true,
+											"document": true,
+											"setInterval": true,
+											"setTimeout": true,
+											"window": true
+										},
+										"white": false
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"csslint"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": true,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": true,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0 0 2560 1418 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"uploadstat",
+						"app/js/vidio/view/upload/UploadStatusView.js"
+					],
+					[
+						"notificationview",
+						"app/js/vidio/view/notifications/NotificationView.js"
+					],
+					[
+						"headerview.js",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"notificationco",
+						"app/js/vidio/model/collections/NotificaitonCollection.js"
+					],
+					[
+						"appmo",
+						"app/js/vidio/model/AppModel.js"
+					],
+					[
+						"headervi",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"commands",
+						"app/js/vidio/control/Commands.js"
+					],
+					[
+						"notifica",
+						"app/templates/notifications/NotificationView.tmpl"
+					],
+					[
+						"vidio",
+						"app/less/vidio.less"
+					],
+					[
+						"notif",
+						"app/less/notifications.less"
+					],
+					[
+						"upload",
+						"app/less/upload.less"
+					],
+					[
+						"header",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"baseview",
+						"app/js/vidio/view/BaseView.js"
+					],
+					[
+						"sublimelin",
+						"~/Dropbox/Sublime 3/Packages/User/SublimeLinter.sublime-settings"
+					],
+					[
+						"noti",
+						"app/templates/NotificationView.tmpl"
+					],
+					[
+						"headerview",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"notifi",
+						"app/templates/NotificationView.tmpl"
+					],
+					[
+						"vidio.le",
+						"app/less/vidio.less"
+					],
+					[
+						"appview",
+						"app/js/vidio/view/AppView.js"
+					],
+					[
+						"uploads.",
+						"app/less/upload.less"
+					],
+					[
+						"nav.le",
+						"app/less/nav.less"
+					],
+					[
+						"appro",
+						"~/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"app",
+						"~/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"spin-",
+						"app/js/libs/spin-1.3.1.js"
+					],
+					[
+						"spin.js",
+						"app/js/libs/jquery.spin.js"
+					],
+					[
+						"approu",
+						"app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"uploadlistit",
+						"app/js/vidio/view/lists/items/UploadListItem.js"
+					],
+					[
+						"uploadli",
+						"app/js/vidio/view/lists/UploadList.js"
+					],
+					[
+						"uploadstatu",
+						"app/js/vidio/view/upload/UploadStatusView.js"
+					],
+					[
+						"facebook",
+						"app/less/facebook.less"
+					],
+					[
+						"facebooktmpl",
+						"app/templates/facebook/FacebookCreateView.tmpl"
+					],
+					[
+						"seo",
+						"app/templates/upsells/SeoUpsellView.tmpl"
+					],
+					[
+						"commentsu",
+						"app/templates/upsells/CommentsUpsellView.tmpl"
+					],
+					[
+						"twitter",
+						"app/templates/upsells/TwitterUpsellView.tmpl"
+					],
+					[
+						"topin",
+						"app/templates/upsells/TopInfluencersUpsellView.tmpl"
+					],
+					[
+						"upse",
+						"app/less/upsells.less"
+					],
+					[
+						"masslike",
+						"app/models/youtubevideo/mass_like.rb"
+					],
+					[
+						"account",
+						"app/models/account.rb"
+					],
+					[
+						"accounts",
+						"app/controllers/v0/accounts_controller.rb"
+					],
+					[
+						"andrewco",
+						"app/controllers/andrew_controller.rb"
+					],
+					[
+						"videos_con",
+						"app/controllers/v0/youtube/videos_controller.rb"
+					],
+					[
+						"channelsco",
+						"app/controllers/v0/youtube/channels_controller.rb"
+					],
+					[
+						"main",
+						"app/js/main.js"
+					],
+					[
+						"chartmod",
+						"app/js/vidio/view/analytics/ChartModuleView.js"
+					],
+					[
+						"navigation",
+						"app/js/vidio/view/controls/NavigationTabView.js"
+					],
+					[
+						"uploadman",
+						"app/js/vidio/control/managers/UploadManager.js"
+					],
+					[
+						"startup",
+						"app/js/vidio/control/commands/StartUploadCommand.js"
+					],
+					[
+						"uploadfi",
+						"app/templates/upload/UploadFileView.tmpl"
+					],
+					[
+						"goog",
+						"app/js/vidio/control/managers/GoogleMapsManager.js"
+					],
+					[
+						"mains",
+						"app/js/main.js"
+					],
+					[
+						"moment",
+						"app/js/vidio/model/static/MomentTimezoneData.js"
+					],
+					[
+						"moment-time",
+						"app/js/libs/moment-timezone-0.0.1.js"
+					],
+					[
+						"historymodulev",
+						"app/templates/analytics/HistoryModuleView.tmpl"
+					],
+					[
+						"module",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"historymoduleset",
+						"app/templates/analytics/settings/HistoryModuleSettingsView.tmpl"
+					],
+					[
+						"mixins",
+						"app/less/bootstrap/mixins.less"
+					],
+					[
+						"analyt",
+						"app/less/analytics.less"
+					],
+					[
+						"timezone-pi",
+						"app/js/libs/jquery.timezone-picker.js"
+					],
+					[
+						"apphi",
+						"app/js/vidio/control/AppHistory.js"
+					],
+					[
+						"historymoduleview",
+						"app/js/vidio/view/analytics/HistoryModuleView.js"
+					],
+					[
+						"modulev",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"gruntfile",
+						"Gruntfile.js"
+					],
+					[
+						"jq",
+						"app/js/vidio/control/init/jQueryInit.js"
+					],
+					[
+						"fac",
+						"app/js/facebook-main.js"
+					],
+					[
+						"editvi",
+						"app/templates/videos/EditVideoView.tmpl"
+					],
+					[
+						"modulesett",
+						"app/js/vidio/model/settings/HistoryModuleSettingsModel.js"
+					],
+					[
+						"historymodulesettin",
+						"app/templates/analytics/settings/HistoryModuleSettingsView.tmpl"
+					],
+					[
+						"modulevie",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"moduletoo",
+						"app/templates/analytics/ModuleToolbarView.tmpl"
+					],
+					[
+						"google",
+						"app/js/vidio/control/managers/GoogleMapsManager.js"
+					],
+					[
+						"analyticsview",
+						"app/js/vidio/view/AnalyticsView.js"
+					],
+					[
+						"historymo",
+						"app/templates/analytics/HistoryModuleView.tmpl"
+					],
+					[
+						"apphist",
+						"app/js/vidio/control/AppHistory.js"
+					],
+					[
+						"approuter",
+						"app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"index",
+						"release/web/index.html"
+					],
+					[
+						"charttool",
+						"app/templates/analytics/toolbars/ChartModuleToolbar.tmpl"
+					],
+					[
+						"chart",
+						"app/js/vidio/view/analytics/ChartModuleView.js"
+					],
+					[
+						"modulevi",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"historymod",
+						"app/js/vidio/model/settings/HistoryModuleSettingsModel.js"
+					],
+					[
+						"analy",
+						"app/less/analytics.less"
+					],
+					[
+						"momentin",
+						"app/js/vidio/control/init/MomentInit.js"
+					],
+					[
+						"momentti",
+						"app/js/vidio/model/static/MomentTimezoneData.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 392.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 22,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"noti",
+						"notificationView"
+					],
+					[
+						"Notifi",
+						"notificationsView"
+					],
+					[
+						"draw",
+						"drawChart"
+					],
+					[
+						"settings",
+						"settingsView"
+					],
+					[
+						"setting",
+						"settingsView"
+					],
+					[
+						"onSe",
+						"onHideSettings"
+					],
+					[
+						"onMap",
+						"onMapHover"
+					],
+					[
+						"time",
+						"timezone"
+					],
+					[
+						"onMa",
+						"onMapHover"
+					],
+					[
+						"tool",
+						"toolbarView"
+					],
+					[
+						"hide",
+						"hideLoading"
+					],
+					[
+						"settin",
+						"settingsView"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"toolb",
+						"toolbarTemplate"
+					],
+					[
+						"list",
+						"listenTo"
+					],
+					[
+						"Histor",
+						"HistoryModuleSettings"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/Jamie/Dropbox/Sublime 3/Packages/User/Espresso Soda.tmTheme",
+					"settings":
+					{
+						"buffer_size": 25691,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 49.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"renam",
+						"File: Rename"
+					],
+					[
+						"sublimel",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"new",
+						"File: New File Relative to Current View"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remvoe",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublm",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"subli",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"sublim",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"sublime",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sub",
+						"SublimeLint: Show All Errors"
+					],
+					[
+						"sublimeli",
+						"SublimeLint: Next Error"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"packageo",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"packa",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Add Repository"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 397.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/vidio.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/notifications/NotificationView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/AppModel.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/QueueNotificationCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/ShowAlertCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/collections/NotificationCollection.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/notifications/NotificationView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadStatusView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/Commands.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/ChartModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/notifications.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/collections/NotificaitonCollection.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/HeaderView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/nav.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/upload.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/AppView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/BaseView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upload/UploadStatusView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/NotificationModel.js",
+				"/Users/Jamie/.floobits/share/msgs.floobits.log",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/TopInfluencersUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/TwitterUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/CommentsUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upsells/SeoUpsellView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/facebook/FacebookCreateView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/facebook.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/upsells.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/lists/UploadList.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/lists/items/UploadListItem.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/spin-1.3.1.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/jquery.spin.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/facebook/FacebookConfigurationView.tmpl",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/admin/accounts_controller.rb",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Ruby.sublime-settings",
+				"/Users/Jamie/Development/Ruby/vidio-core/pastasauce/app/controllers/andrew_controller.rb",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/spin-1.2.7.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/main.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/facebook-main.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/upload/UploadFileView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/upload/UploadFileView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/commands/StartUploadCommand.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/managers/UploadManager.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/HeaderView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Abacus/Abacus.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/controls/NavigationTabView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Abacus.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Package Control/Package Control.sublime-settings",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/Gruntfile.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/HistoryModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppHistory.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/settings/HistoryModuleSettingsModel.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/analytics.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/settings/HistoryModuleSettingsView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/ModuleView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/HistoryModuleView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/moment-timezone-0.0.1.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/managers/GoogleMapsManager.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/model/static/MomentTimezoneData.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/libs/jquery.timezone-picker.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/bootstrap/mixins.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/ModuleView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/analytics/settings/HistoryModuleSettingsView.js",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SideBarEnhancements/CHANGELOG",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/init/jQueryInit.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/videos/EditVideoView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/forms.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/init/MomentInit.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/toolbars/ChartModuleToolbar.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/toolbars/HistoryModuleToolbar.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/less/mixins.less",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/templates/analytics/ModuleToolbarView.tmpl",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/app/js/vidio/view/AnalyticsView.js",
+				"/Users/Jamie/Development/Javascript/vid.io/vidio-client/release/web/index.html",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/sublime-monokai-extended/Monokai Extended.tmTheme",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/JavaScript.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/SublimeLinter/README.md",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Package Control.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/JSON.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/Jamie/Dropbox/Sublime 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/Jamie/Dropbox/Sublime/Packages/User/Preferences.sublime-settings",
+				"/Users/Jamie/Pictures/Photo Booth Library/Pictures/Photo on 8-12-13 at 4.39 PM.jpg"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"app/js",
+					"app/less",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"this.uploadList",
+					"uploadList",
+					"UploadStatusView",
+					"uploads",
+					"Uploads",
+					"onUploadsRemove",
+					"onNotificationsAdd",
+					"Uploads",
+					"uploads",
+					"null, {",
+					"null, ",
+					"uploadd",
+					"upload",
+					"bell",
+					"NotificationView",
+					"bell",
+					"<article>",
+					"def authorize",
+					"mass",
+					"mass_like",
+					"spin-1.2.7",
+					"data",
+					":",
+					"SocketManager",
+					"utcHours",
+					"timezone",
+					"font",
+					"moment().tz",
+					"25px",
+					".form-actions",
+					".box-sha",
+					"brightcove",
+					"form-actions",
+					"180deg",
+					"-180deg",
+					"transform3d",
+					"module-settings",
+					"180deg",
+					"0deg",
+					"$card",
+					"0deg",
+					"180deg",
+					"-180deg",
+					"180deg",
+					"onMapSelect",
+					"$map",
+					"span",
+					"Background",
+					"on(",
+					".on",
+					"on",
+					"HistoryModuleSettings",
+					"this.timezone",
+					"transform3d"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"this.list",
+					"NotificationListDropdownView",
+					"<article class=\"span4\">",
+					"spin-1.3.1"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/Jamie/Dropbox/Sublime 3/Packages/User/Espresso Soda.tmTheme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25691,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25582,
+										25582
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": false,
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": false,
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": false,
+										"import": false,
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": false,
+										"qualified-headings": false,
+										"regex-selectors": false,
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": false,
+										"universal-selector": "warning",
+										"vendor-prefix": false,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"globals":
+										{
+											"clearInterval": true,
+											"clearTimeout": true,
+											"document": true,
+											"setInterval": true,
+											"setTimeout": true,
+											"window": true
+										},
+										"white": false
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+										"csslint"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": true,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": true,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/XML/XML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10594.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0 0 2560 1418 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"uploadstat",
+						"app/js/vidio/view/upload/UploadStatusView.js"
+					],
+					[
+						"notificationview",
+						"app/js/vidio/view/notifications/NotificationView.js"
+					],
+					[
+						"headerview.js",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"notificationco",
+						"app/js/vidio/model/collections/NotificaitonCollection.js"
+					],
+					[
+						"appmo",
+						"app/js/vidio/model/AppModel.js"
+					],
+					[
+						"headervi",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"commands",
+						"app/js/vidio/control/Commands.js"
+					],
+					[
+						"notifica",
+						"app/templates/notifications/NotificationView.tmpl"
+					],
+					[
+						"vidio",
+						"app/less/vidio.less"
+					],
+					[
+						"notif",
+						"app/less/notifications.less"
+					],
+					[
+						"upload",
+						"app/less/upload.less"
+					],
+					[
+						"header",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"baseview",
+						"app/js/vidio/view/BaseView.js"
+					],
+					[
+						"sublimelin",
+						"~/Dropbox/Sublime 3/Packages/User/SublimeLinter.sublime-settings"
+					],
+					[
+						"noti",
+						"app/templates/NotificationView.tmpl"
+					],
+					[
+						"headerview",
+						"app/js/vidio/view/HeaderView.js"
+					],
+					[
+						"notifi",
+						"app/templates/NotificationView.tmpl"
+					],
+					[
+						"vidio.le",
+						"app/less/vidio.less"
+					],
+					[
+						"appview",
+						"app/js/vidio/view/AppView.js"
+					],
+					[
+						"uploads.",
+						"app/less/upload.less"
+					],
+					[
+						"nav.le",
+						"app/less/nav.less"
+					],
+					[
+						"appro",
+						"~/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"app",
+						"~/Development/Javascript/vid.io/vidio-client/app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"spin-",
+						"app/js/libs/spin-1.3.1.js"
+					],
+					[
+						"spin.js",
+						"app/js/libs/jquery.spin.js"
+					],
+					[
+						"approu",
+						"app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"uploadlistit",
+						"app/js/vidio/view/lists/items/UploadListItem.js"
+					],
+					[
+						"uploadli",
+						"app/js/vidio/view/lists/UploadList.js"
+					],
+					[
+						"uploadstatu",
+						"app/js/vidio/view/upload/UploadStatusView.js"
+					],
+					[
+						"facebook",
+						"app/less/facebook.less"
+					],
+					[
+						"facebooktmpl",
+						"app/templates/facebook/FacebookCreateView.tmpl"
+					],
+					[
+						"seo",
+						"app/templates/upsells/SeoUpsellView.tmpl"
+					],
+					[
+						"commentsu",
+						"app/templates/upsells/CommentsUpsellView.tmpl"
+					],
+					[
+						"twitter",
+						"app/templates/upsells/TwitterUpsellView.tmpl"
+					],
+					[
+						"topin",
+						"app/templates/upsells/TopInfluencersUpsellView.tmpl"
+					],
+					[
+						"upse",
+						"app/less/upsells.less"
+					],
+					[
+						"masslike",
+						"app/models/youtubevideo/mass_like.rb"
+					],
+					[
+						"account",
+						"app/models/account.rb"
+					],
+					[
+						"accounts",
+						"app/controllers/v0/accounts_controller.rb"
+					],
+					[
+						"andrewco",
+						"app/controllers/andrew_controller.rb"
+					],
+					[
+						"videos_con",
+						"app/controllers/v0/youtube/videos_controller.rb"
+					],
+					[
+						"channelsco",
+						"app/controllers/v0/youtube/channels_controller.rb"
+					],
+					[
+						"main",
+						"app/js/main.js"
+					],
+					[
+						"chartmod",
+						"app/js/vidio/view/analytics/ChartModuleView.js"
+					],
+					[
+						"navigation",
+						"app/js/vidio/view/controls/NavigationTabView.js"
+					],
+					[
+						"uploadman",
+						"app/js/vidio/control/managers/UploadManager.js"
+					],
+					[
+						"startup",
+						"app/js/vidio/control/commands/StartUploadCommand.js"
+					],
+					[
+						"uploadfi",
+						"app/templates/upload/UploadFileView.tmpl"
+					],
+					[
+						"goog",
+						"app/js/vidio/control/managers/GoogleMapsManager.js"
+					],
+					[
+						"mains",
+						"app/js/main.js"
+					],
+					[
+						"moment",
+						"app/js/vidio/model/static/MomentTimezoneData.js"
+					],
+					[
+						"moment-time",
+						"app/js/libs/moment-timezone-0.0.1.js"
+					],
+					[
+						"historymodulev",
+						"app/templates/analytics/HistoryModuleView.tmpl"
+					],
+					[
+						"module",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"historymoduleset",
+						"app/templates/analytics/settings/HistoryModuleSettingsView.tmpl"
+					],
+					[
+						"mixins",
+						"app/less/bootstrap/mixins.less"
+					],
+					[
+						"analyt",
+						"app/less/analytics.less"
+					],
+					[
+						"timezone-pi",
+						"app/js/libs/jquery.timezone-picker.js"
+					],
+					[
+						"apphi",
+						"app/js/vidio/control/AppHistory.js"
+					],
+					[
+						"historymoduleview",
+						"app/js/vidio/view/analytics/HistoryModuleView.js"
+					],
+					[
+						"modulev",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"gruntfile",
+						"Gruntfile.js"
+					],
+					[
+						"jq",
+						"app/js/vidio/control/init/jQueryInit.js"
+					],
+					[
+						"fac",
+						"app/js/facebook-main.js"
+					],
+					[
+						"editvi",
+						"app/templates/videos/EditVideoView.tmpl"
+					],
+					[
+						"modulesett",
+						"app/js/vidio/model/settings/HistoryModuleSettingsModel.js"
+					],
+					[
+						"historymodulesettin",
+						"app/templates/analytics/settings/HistoryModuleSettingsView.tmpl"
+					],
+					[
+						"modulevie",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"moduletoo",
+						"app/templates/analytics/ModuleToolbarView.tmpl"
+					],
+					[
+						"google",
+						"app/js/vidio/control/managers/GoogleMapsManager.js"
+					],
+					[
+						"analyticsview",
+						"app/js/vidio/view/AnalyticsView.js"
+					],
+					[
+						"historymo",
+						"app/templates/analytics/HistoryModuleView.tmpl"
+					],
+					[
+						"apphist",
+						"app/js/vidio/control/AppHistory.js"
+					],
+					[
+						"approuter",
+						"app/js/vidio/control/AppRouter.js"
+					],
+					[
+						"index",
+						"release/web/index.html"
+					],
+					[
+						"charttool",
+						"app/templates/analytics/toolbars/ChartModuleToolbar.tmpl"
+					],
+					[
+						"chart",
+						"app/js/vidio/view/analytics/ChartModuleView.js"
+					],
+					[
+						"modulevi",
+						"app/js/vidio/view/analytics/ModuleView.js"
+					],
+					[
+						"historymod",
+						"app/js/vidio/model/settings/HistoryModuleSettingsModel.js"
+					],
+					[
+						"analy",
+						"app/less/analytics.less"
+					],
+					[
+						"momentin",
+						"app/js/vidio/control/init/MomentInit.js"
+					],
+					[
+						"momentti",
+						"app/js/vidio/model/static/MomentTimezoneData.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 392.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 31,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

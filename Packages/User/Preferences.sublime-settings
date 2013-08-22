@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"font": "inconsolata",
+	"font_size": 12.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		120
+	],
+	"tab_size": 4,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
