@@ -4,4 +4,5 @@ Index/
 *.cache/
 Cache/
 Installed\ Packages/
-.last-run*
+*.last-run*
+*.system*
