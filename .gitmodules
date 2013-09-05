@@ -1,0 +1,6 @@
+[submodule "Packages/User/Snippets"]
+	path = Packages/User/Snippets
+	url = git@github.com:jrolfs/sublime-snippets.git
+[submodule "Packages/Theme - Soda"]
+	path = Packages/Theme - Soda
+	url = git@github.com:jrolfs/soda-theme.git

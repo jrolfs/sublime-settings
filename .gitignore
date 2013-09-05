@@ -1,4 +1,8 @@
 Index/
 *.sublime_session
 *.cache
+*.cache/
 Cache/
+Installed\ Packages/
+*.last-run*
+*.system*
