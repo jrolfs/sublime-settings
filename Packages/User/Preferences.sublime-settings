@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/sublime-monokai-extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/User/Solarized (light).tmTheme",
 	"font": "inconsolata",
 	"font_size": 12.0,
 	"highlight_modified_tabs": true,
@@ -12,7 +12,7 @@
 		120
 	],
 	"tab_size": 4,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
