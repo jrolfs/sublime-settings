@@ -1,4 +1,4 @@
 Index/
 *.sublime_session
-
+*.cache
 Cache/
