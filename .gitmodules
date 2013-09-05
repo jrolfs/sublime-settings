@@ -1,0 +1,3 @@
+[submodule "Packages/User/Snippets"]
+	path = Packages/User/Snippets
+	url = git@github.com:jrolfs/sublime-snippets.git
