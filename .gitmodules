@@ -4,3 +4,12 @@
 [submodule "Packages/Theme - Soda"]
 	path = Packages/Theme - Soda
 	url = git@github.com:jrolfs/soda-theme.git
+[submodule "Packages/SublimeLinter"]
+	path = Packages/SublimeLinter
+	url = https://github.com/SublimeLinter/SublimeLinter.git
+[submodule "Packages/User/Abacus"]
+	path = Packages/User/Abacus
+	url = https://github.com/khiltd/Abacus.git
+[submodule "Packages/User/sublime-monokai-extended"]
+	path = Packages/User/sublime-monokai-extended
+	url = git@github.com:jrolfs/sublime-monokai-extended.git
