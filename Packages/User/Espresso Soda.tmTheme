@@ -769,7 +769,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F92672</string>
+                <string>#c01e58</string>
             </dict>
         </dict>
         <dict>
@@ -780,7 +780,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#A6E22E</string>
+                <string>#7aa720</string>
             </dict>
         </dict>
         <dict>
@@ -791,7 +791,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#967EFB</string>
+                <string>#5d4ca1</string>
             </dict>
         </dict>
     </array>
