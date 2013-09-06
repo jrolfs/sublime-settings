@@ -8,7 +8,7 @@
 	path = Packages/User/Abacus
 	url = https://github.com/khiltd/Abacus.git
 [submodule "Packages/User/sublime-monokai-extended"]
-	path = Packages/User/sublime-monokai-extended
+	path = Packages/User/Monokai
 	url = git@github.com:jrolfs/sublime-monokai-extended.git
 [submodule "Packages/Theme - Soda"]
 	path = Packages/Theme - Soda
