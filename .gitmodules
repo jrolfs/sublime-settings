@@ -13,3 +13,6 @@
 [submodule "Packages/Theme - Soda"]
 	path = Packages/Theme - Soda
 	url = git@github.com:jrolfs/soda-theme.git
+[submodule "Packages/User/Solarized"]
+	path = Packages/User/Solarized
+	url = git@github.com:jrolfs/Solarized.git
