@@ -1,5 +1,6 @@
 {
-	"color_scheme": "Packages/User/sublime-monokai-extended/Monokai Extended.tmTheme",
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/Monokai/Monokai Extended.tmTheme",
 	"font": "inconsolata",
 	"font_size": 12.0,
 	"highlight_modified_tabs": true,
