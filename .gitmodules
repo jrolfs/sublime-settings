@@ -16,3 +16,4 @@
 [submodule "Packages/Theme - Sodarized"]
 	path = Packages/Theme - Sodarized
 	url = https://github.com/jrolfs/Sodarized.git
+	branch = sodarized
