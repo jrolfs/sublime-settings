@@ -1,21 +1,24 @@
 [submodule "Packages/User/Snippets"]
 	path = Packages/User/Snippets
 	url = git@github.com:jrolfs/sublime-snippets.git
+  branch = master
 [submodule "Packages/SublimeLinter"]
 	path = Packages/SublimeLinter
 	url = https://github.com/SublimeLinter/SublimeLinter.git
+  branch = master
 [submodule "Packages/User/Abacus"]
 	path = Packages/User/Abacus
 	url = https://github.com/khiltd/Abacus.git
+  branch = master
 [submodule "Packages/User/Solarized"]
 	path = Packages/User/Solarized
 	url = git@github.com:jrolfs/Solarized.git
+  branch = master
 [submodule "Packages/User/Monokai"]
 	path = Packages/User/Monokai
 	url = git@github.com:jrolfs/sublime-monokai-extended.git
+  branch = sublime-linter
 [submodule "Packages/Theme - Sodarized"]
 	path = Packages/Theme - Sodarized
 	url = https://github.com/jrolfs/Sodarized.git
 	branch = sodarized
-[submodule "Solarized"]
-	branch = master
