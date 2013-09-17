@@ -17,3 +17,5 @@
 	path = Packages/Theme - Sodarized
 	url = https://github.com/jrolfs/Sodarized.git
 	branch = sodarized
+[submodule "Solarized"]
+	branch = master
