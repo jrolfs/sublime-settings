@@ -5,7 +5,7 @@
 [submodule "Packages/SublimeLinter"]
 	path = Packages/SublimeLinter
 	url = https://github.com/SublimeLinter/SublimeLinter.git
-  branch = master
+  branch = sublime-text-3
 [submodule "Packages/User/Abacus"]
 	path = Packages/User/Abacus
 	url = https://github.com/khiltd/Abacus.git
