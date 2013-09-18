@@ -18,3 +18,7 @@
 	path = Packages/User/Monokai
 	url = git@github.com:jrolfs/sublime-monokai-extended.git
   branch = sublime-linter
+[submodule "Packages/Theme - Sodarized"]
+	path = Packages/Theme - Sodarized
+	url = git@github.com:jrolfs/sodarized.git
+  branch = sodarized
