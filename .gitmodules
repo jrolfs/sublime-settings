@@ -20,5 +20,5 @@
   branch = sublime-linter
 [submodule "Packages/Theme - Sodarized"]
 	path = Packages/Theme - Sodarized
-	url = https://github.com/jrolfs/Sodarized.git
+	url = git@github.com:jrolfs/Sodarized.git
 	branch = sodarized
