@@ -8,3 +8,5 @@ Installed\ Packages/
 *.last-run*
 *.system*
 Packages/HTML-CSS-JS\ Prettify
+*.sublime-workspace
+*.sublime-project
