@@ -2,11 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"color_scheme": "Packages/User/Solarized (light) (SL).tmTheme",
 	"font_face": "Inconsolata",
-<<<<<<< HEAD
 	"font_size": 12.0,
-=======
-	"font_size": 13.0,
->>>>>>> Changed font size to 13
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
