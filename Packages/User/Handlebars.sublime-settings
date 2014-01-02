@@ -1,6 +1,8 @@
 {
 	"extensions":
 	[
-		"tmpl"
-	]
+		"tmpl",
+        "handlebars"
+	],
+    "tab_size": 2
 }
