@@ -7,6 +7,11 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "coffee": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "jshint": {
                 "@disable": false,
                 "args": [],
@@ -33,6 +38,7 @@
             "windows": []
         },
         "rc_search_limit": 3,
+        "shell_timeout": 10,
         "show_errors_on_save": true,
         "show_marks_in_minimap": true,
         "syntax_map": {
