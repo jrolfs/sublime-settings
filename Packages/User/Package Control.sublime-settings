@@ -18,8 +18,9 @@
 		"Monokai Extended",
 		"Pretty JSON",
 		"RSpec (snippets and syntax)",
-		"SideBarEnhancements",
-		"View In Browser"
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby"
 	],
 	"repositories":
 	[
