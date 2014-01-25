@@ -19,6 +19,7 @@
 		"Pretty JSON",
 		"RSpec (snippets and syntax)",
 		"SublimeLinter",
+		"SublimeLinter-coffeelint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-ruby"
 	],
