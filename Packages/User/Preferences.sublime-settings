@@ -1,7 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
 	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
-	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Inconsolata",
 	"font_size": 12.0,
 	"highlight_modified_tabs": true,
@@ -16,6 +15,5 @@
 	"tab_size": 4,
 	"theme": "Sodarized Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
