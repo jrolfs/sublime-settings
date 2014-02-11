@@ -2,10 +2,12 @@
 	"installed_packages":
 	[
 		"Abacus",
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"Better CoffeeScript",
 		"CoffeeComplete Plus (Autocompletion)",
 		"DocBlockr",
+		"eco",
 		"Git",
 		"GitGutter",
 		"Handlebars",
@@ -17,6 +19,7 @@
 		"Monokai Extended",
 		"Pretty JSON",
 		"RSpec (snippets and syntax)",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-coffeelint",
