@@ -1,6 +1,5 @@
 Index/
-*.sublime_session
-*.sublime_metrics
+Local/
 *.cache
 *.cache/
 Cache/
