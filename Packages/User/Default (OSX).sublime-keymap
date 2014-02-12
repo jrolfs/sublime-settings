@@ -3,5 +3,6 @@
 	{ "keys": ["super+alt+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
     { "keys": ["super+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
     { "keys": ["ctrl+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-    { "keys": ["super+ctrl+o"], "command": "prompt_open" }
+    { "keys": ["super+ctrl+o"], "command": "prompt_open" },
+    { "keys": ["ctrl+equals"], "command": "jump_forward" }
 ]
