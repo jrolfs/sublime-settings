@@ -21,7 +21,8 @@
 	[
 		120
 	],
-	"tab_size": 4,
+	"save_on_focus_lost": true,
+	"tab_size": 2,
 	"theme": "Sodarized Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false

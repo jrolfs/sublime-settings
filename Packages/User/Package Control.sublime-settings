@@ -19,12 +19,14 @@
 		"Monokai Extended",
 		"Pretty JSON",
 		"RSpec (snippets and syntax)",
+		"RubyTest",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-jshint",
-		"SublimeLinter-ruby"
+		"SublimeLinter-ruby",
+		"View In Browser"
 	],
 	"repositories":
 	[
