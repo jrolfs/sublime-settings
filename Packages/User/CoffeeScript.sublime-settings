@@ -1,8 +1,7 @@
 {
 	"extensions":
 	[
-		"tmpl",
-        "handlebars"
+		"coffee"
 	],
     "tab_size": 2
 }

@@ -2,8 +2,13 @@
 	"installed_packages":
 	[
 		"Abacus",
+		"AdvancedNewFile",
 		"All Autocomplete",
+		"Better CoffeeScript",
+		"CoffeeComplete Plus (Autocompletion)",
 		"DocBlockr",
+		"eco",
+		"Git",
 		"GitGutter",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
@@ -11,11 +16,16 @@
 		"JSONLint",
 		"Lasso",
 		"LESS",
-		"Markdown Preview",
 		"Monokai Extended",
 		"Pretty JSON",
 		"RSpec (snippets and syntax)",
+		"RubyTest",
+		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby",
 		"View In Browser"
 	],
 	"repositories":

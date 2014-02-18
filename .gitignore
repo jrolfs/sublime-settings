@@ -1,12 +1,13 @@
 Index/
-*.sublime_session
-*.sublime_metrics
+Local/
 *.cache
 *.cache/
 Cache/
 Installed\ Packages/
 *.last-run*
 *.system*
-Packages/HTML-CSS-JS\ Prettify
 *.sublime-workspace
 *.sublime-project
+Backup/
+Packages/HTML-CSS-JS\ Prettify
+Packages/SublimeLinter*
