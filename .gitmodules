@@ -2,10 +2,6 @@
 	path = Packages/User/Snippets
 	url = git@github.com:jrolfs/sublime-snippets.git
   branch = master
-[submodule "Packages/SublimeLinter"]
-	path = Packages/SublimeLinter
-	url = https://github.com/SublimeLinter/SublimeLinter.git
-  branch = sublime-text-3
 [submodule "Packages/User/Abacus"]
 	path = Packages/User/Abacus
 	url = https://github.com/khiltd/Abacus.git
