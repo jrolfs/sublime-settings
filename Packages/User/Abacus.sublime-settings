@@ -4,7 +4,7 @@
     [
         {
             "token":                ":",
-            "gravity":              "left",
+            "gravity":              "right",
             "preserve_indentation": true
         }
     ]
