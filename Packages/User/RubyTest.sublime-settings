@@ -4,5 +4,5 @@
     "check_for_rvm": true,
     "check_for_rbenv": false,
     "save_on_run": true,
-    "theme": "Packages/User/Solarized (dark) (SL).tmTheme"
+    "theme": "Packages/User/Monokai Extended (SL).tmTheme"
 }
