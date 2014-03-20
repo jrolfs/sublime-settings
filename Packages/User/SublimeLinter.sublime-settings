@@ -8,17 +8,17 @@
         "lint_mode": "background",
         "linters": {
             "coffeelint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
             "jshint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
             "ruby": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             }

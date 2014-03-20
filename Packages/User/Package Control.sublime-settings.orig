@@ -14,8 +14,11 @@
 		"GitGutter",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
+<<<<<<< Updated upstream
 		"Jasmine CoffeeScript",
+=======
 		"Jade",
+>>>>>>> Stashed changes
 		"JavaScript Console",
 		"JSONLint",
 		"Lasso",
