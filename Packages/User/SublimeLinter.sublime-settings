@@ -46,7 +46,8 @@
             "html (rails)": "html",
             "html 5": "html",
             "php": "html",
-            "python django": "python"
+            "python django": "python",
+            "jasmine coffeescript": "coffeescript"
         },
         "warning_color": "DDB700",
         "wrap_find": true
