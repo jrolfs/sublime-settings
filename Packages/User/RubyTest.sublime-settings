@@ -2,7 +2,7 @@
     "run_rspec_command": "zeus rspec {relative_path}",
     "run_single_rspec_command": "zeus rspec {relative_path}:{line_number}",
     "check_for_rvm": true,
-    "check_for_rbenv": false,
+    "check_for_rbenv": true,
     "save_on_run": true,
     "theme": "Packages/User/Solarized/Solarized Test (dark).tmTheme"
 }
