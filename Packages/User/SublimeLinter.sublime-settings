@@ -45,6 +45,7 @@
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
+            "jasmine coffeescript": "coffeescript",
             "php": "html",
             "python django": "python",
             "jasmine coffeescript": "coffeescript"
