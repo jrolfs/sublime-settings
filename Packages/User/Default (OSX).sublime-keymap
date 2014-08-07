@@ -9,5 +9,7 @@
     { "keys": ["super+alt+,"], "command": "focus_neighboring_group", "args": {"forward": false} },
     { "keys": ["super+alt+."], "command": "focus_neighboring_group" },
     { "keys": ["super+alt+w"], "command": "close_others" },
-    { "keys": ["super+alt+shift+w"], "command": "close_to_right" }
+    { "keys": ["super+alt+shift+w"], "command": "close_to_right" },
+    { "keys": ["super+ctrl+alt+w"], "command": "close_all" },
+    { "keys": ["super+alt+shift+s"], "command": "save_project_as" }
 ]
