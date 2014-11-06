@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Abacus",
 		"All Autocomplete",
 		"Backbone.Marionette",
 		"Better CoffeeScript",

@@ -2,10 +2,6 @@
 	path = Packages/User/Snippets
 	url = git@github.com:jrolfs/sublime-snippets.git
   branch = master
-[submodule "Packages/User/Abacus"]
-	path = Packages/User/Abacus
-	url = https://github.com/khiltd/Abacus.git
-  branch = master
 [submodule "Packages/User/Solarized"]
 	path = Packages/User/Solarized
 	url = git@github.com:jrolfs/Solarized.git
