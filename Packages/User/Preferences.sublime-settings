@@ -8,7 +8,8 @@
 		".hg",
 		"CVS",
 		"tmp",
-		"tmp_assets"
+		"tmp_assets",
+		"build"
 	],
 	"font_face": "SourceCodePro-Regular",
 	"font_size": 12.0,
